@@ -1,2 +1,2 @@
-# coursera.html.test
+test.coursera
 Frontend
